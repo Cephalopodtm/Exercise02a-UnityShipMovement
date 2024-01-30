@@ -1,16 +1,18 @@
-# Exercise02a-UnityShipMovement
+# Exercise02a-Bullets-And-Asteroids
 
 Exercise for MSCH-C220
 
-A user-controlled ship for a space-shooter game. Created in Unity.
+A user-controlled ship for a space-shooter game. Recently added the ability to shoot asteroids. Created in Unity.
 
 ## Implementation
 
+Assets are provided by [Kenney.nl](https://kenney.nl/assets/space-shooter-extension), provided under a [CC0 1.0 Public Domain License](https://creativecommons.org/publicdomain/zero/1.0/).
+
 ## References
-https://www.youtube.com/watch?v=bOhIdLjlsYk and https://www.youtube.com/watch?v=_RTKPxrNo5o
+None
 
 ## Future Development
-To Be Decided???
+None
 
 ## Created by
 Joseph Shriver
